@@ -1,0 +1,8 @@
+# Design files #
+######################
+Design/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
