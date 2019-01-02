@@ -13,7 +13,7 @@ Motinal (Motivation Journal) is an Android application that allows users to log 
 - Users can add results for each planned items
 - Users can add additional items that they accomplished on the day
 - Users can add comments for the day
-- Users can view the 5 most recent logs that they made 
+- Users can view the 5 most recent logs that they made
 
 ---
 ### Main Screen
@@ -21,4 +21,11 @@ This screen is the main screen that users will be interacting. There are Goals s
 
 Once users finish creating the list item, the next click to the item will result in showing the results area just under the item. Users can put some comments for inside the area and can save the comment.
 
-Once users save results, the item is marked as completed (the color of icon will become dark blue and the item is crossed out).
+Once users save results by clicking "Complete Logging" button, the item is marked as completed (the color of icon will become dark blue and the item is crossed out). Before users save results, they can add more goals during the day.
+
+After users save results, the list will be reset for logging for the next day. The date on the top bar will be updated.
+
+For the first release, users can log only for the current day or the next day.
+
+### Side Menu
+Users can view the side menu by clicking the menu icon on the top left corner. On the side menu, it shows the most recent entries that users created as a record. When there are more than 5 entries, the old ones are deleted from the database. A new entry gets stored in the database once users save a log on the main screen. When users click each record on the side menu, it shows a record screen with a non-editable record for the date that users saved the log.
