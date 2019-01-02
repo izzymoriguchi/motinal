@@ -7,15 +7,13 @@ Motinal (Motivation Journal) is an Android application that allows users to log 
 
 <br>
 
-### Features
-- Planning mode
-  - Users can add daily goals
-  - Users can edit goals when they click the item
-
-- Result mode
-  - Users can add results for each planned items
-  - Users can add additional items that they accomplished on the day
-  - Users can add comments for the day
+### Features of the first release
+- Users can add daily goals
+- Users can edit goals when they click the item
+- Users can add results for each planned items
+- Users can add additional items that they accomplished on the day
+- Users can add comments for the day
+- Users can view the 5 most recent logs that they made 
 
 ---
 ### Main Screen
