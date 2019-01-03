@@ -18,6 +18,7 @@ Motinal (Motivation Journal) is an Android application that allows users to log 
 
 ### Possible features for later release
 - Users are able to share reports to someone
+- Sign up/ Log in
 
 
 ## Specifications
